@@ -308,8 +308,8 @@ DELETE /notes/5
 
 **Priyanshu Raj**
 
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- GitHub: https://github.com/PriyanshuRaj0019
+- LinkedIn: www.linkedin.com/in/priyanshu-raj-ml
 
 ---
 
